@@ -1,0 +1,4 @@
+#Fri Nov 06 21:14:29 GMT+01:00 2020
+base.0=C\:\\Users\\Nabeel\\Documents\\hello_world_app\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
