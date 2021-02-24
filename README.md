@@ -1,7 +1,7 @@
 # Car_Showroom
 
 A new Flutter project.
-<span style="color:blue">Hello</span>.
+<span style="color:blue">some *blue* text</span>.
 
 ## Getting Started
 
